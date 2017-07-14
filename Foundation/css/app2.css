@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.serviceContainer{
+	margin: 0 auto;
+	width: 1260px;
+	min-height: 500px;
+	background-color: #f5f5f5;	
+}
+/*section1 css starts here*/
+.serviceSection1{
+	width: 1228px;
+	margin: 0px auto;
+	padding: 64px;	
+}
+.serviceLabel{
+	min-height: 95PX;
+	width:1260px;
+	background-color:#ecb318;
+}
+.services{
+	padding: 20px;
+	text-align: center;
+}
+.headingAboutServices{
+	font-size: 25px;
+}
+.servicesword{
+	color: #9ecc69;
+}
+.section3box{
+	width: 400px;
+	min-height: 200px;
+
+}
+
+.section1boxheading{
+	font-weight: bold;
+	font-size: 26px;
+	font-family: "Calibri";
+	color: #8bc34a;	
+	margin-top: 10px;
+}
+
+.section1heading{
+	text-align: center;
+	color: #8bc34a;
+	font-family: "Copperplate Gothic bold";
+}
+.section1box img{
+	width: 30px;
+	height: 40px;
+	float: left;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+.section1boxcontent{
+	margin-top: 20px;
+	margin-right: 40px;
+}
+
+.serviceSection2{
+	width: 1140px;
+	min-height: 473px;
+	margin: 0px 61px -22px 52px;
+}
+
+.signatureDishes{
+	text-align: center;
+	font-family: "Lucida Tax";
+	font-weight: bolder;
+}
+
+.contentbelow{
+	margin:20px 104px 10px 186px;
+	text-align: center;
+}
+
+.materialdesign{
+	background-image: url("../images/materialdesign.jpg");
+	width: 93%;
+	height: 275px;	
+	position: relative;	
+}
+
+.bootstrap{
+	background-image: url("../images/bootstrap.jpg");
+	width: 93%;
+	height: 275px;
+	position: relative;
+}
+
+.html5{	
+	background-image: url("../images/html5.jpg");
+	width: 93%;
+	height: 275px;
+	position: relative;	
+}
+
+.caption{
+	position: absolute;
+	opacity: 0.6;
+	width: 100%;
+	text-align: center;
+	margin-top: 63.5%;	
+	background-color: white;
+}
+
+.box{
+	width: 395px;
+	min-height: 275px;	
+}
+
+.aboutImage{
+	text-align:center;
+	background-color: #ffffff;
+	width:93%;
+	margin-top: 1%;
+}

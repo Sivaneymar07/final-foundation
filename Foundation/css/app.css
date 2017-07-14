@@ -1,0 +1,55 @@
+.container{
+	margin: 0 auto;
+	width: 1260px;
+	min-height: 500px;
+}
+
+header{	
+	width: 1260px;
+	min-height: 100px;
+	border-style: solid;
+}
+/*section1 signature dishes*/
+.section1{
+	width: 1260px;
+	min-height: 650px;
+	border-style: solid;
+	background-color:#228B22;	
+}
+
+.signatureDishes{
+	margin:0px auto;
+	width:322px;
+	min-height: 50px;
+	padding-top: 57px;
+}
+.contentbelow{
+	margin:20px 104px 10px 186px;
+	text-align: center;
+}
+.firstSubpart,.secondSubpart,.thirdSubpart{
+	float:left;
+	margin-top: 10px;
+}
+.cobbSalad,.twinkies,.potRoast{
+	width:394px;
+	margin:10px 10px 6px 10px;
+	position: relative;
+
+}
+.blur{
+	width:394px;
+	min-height: 30px;
+	position: absolute;
+	top:212px;
+	text-align:center;
+	       
+
+}
+.cobbSaladContent{
+	margin:10px;
+	text-align:center;
+	background-color: #ffffff;
+	width:394px;
+	min-height: 100px;
+}
